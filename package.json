@@ -1,0 +1,22 @@
+{
+  "name": "second-project-server",
+  "version": "1.0.0",
+  "description": "dotout second project server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twice154/second-project-server.git"
+  },
+  "author": "Dotout Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twice154/second-project-server/issues"
+  },
+  "homepage": "https://github.com/twice154/second-project-server#readme",
+  "dependencies": {
+    "orientjs": "^2.2.10"
+  }
+}
